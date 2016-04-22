@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Manisha\EveryFan\EveryFan.Recruitment-master\src\EveryFan.Recruitment.UnitTests\bin\Debug\EveryFan.Recruitment.UnitTests.dll" total="1" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-04-22" time="11:36:54">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="WKS030" user="mpatel" user-domain="PRECISE-MEDIA" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Manisha\EveryFan\EveryFan.Recruitment-master\src\EveryFan.Recruitment.UnitTests\bin\Debug\EveryFan.Recruitment.UnitTests.dll" executed="True" result="Failure" success="False" time="0.023" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="EveryFan" executed="True" result="Failure" success="False" time="0.022" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Recruitment" executed="True" result="Failure" success="False" time="0.021" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="UnitTests" executed="True" result="Failure" success="False" time="0.021" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="FiftyFiftyPayoutCalculatorTests" executed="True" result="Failure" success="False" time="0.020" asserts="0">
+                    <results>
+                      <test-case name="EveryFan.Recruitment.UnitTests.FiftyFiftyPayoutCalculatorTests.OddSplitWinnings" executed="True" result="Failure" success="False" time="0.018" asserts="2">
+                        <failure>
+                          <message><![CDATA[  Expected: 999
+  But was:  998
+]]></message>
+                          <stack-trace><![CDATA[at EveryFan.Recruitment.UnitTests.FiftyFiftyPayoutCalculatorTests.OddSplitWinnings() in c:\Manisha\EveryFan\EveryFan.Recruitment-master\src\EveryFan.Recruitment.UnitTests\FiftyFiftyPayoutCalculatorTests.cs:line 184
+]]></stack-trace>
+                        </failure>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

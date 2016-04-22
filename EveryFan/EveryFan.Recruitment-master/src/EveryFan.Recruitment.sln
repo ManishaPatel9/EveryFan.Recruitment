@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EveryFan.Recruitment", "EveryFan.Recruitment\EveryFan.Recruitment.csproj", "{756BDFB2-3F24-4A99-BE46-51D429D337F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EveryFan.Recruitment.UnitTests", "EveryFan.Recruitment.UnitTests\EveryFan.Recruitment.UnitTests.csproj", "{FFED3BF4-0391-414F-B2E0-3D6549E5BDB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{756BDFB2-3F24-4A99-BE46-51D429D337F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756BDFB2-3F24-4A99-BE46-51D429D337F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756BDFB2-3F24-4A99-BE46-51D429D337F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756BDFB2-3F24-4A99-BE46-51D429D337F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFED3BF4-0391-414F-B2E0-3D6549E5BDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFED3BF4-0391-414F-B2E0-3D6549E5BDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFED3BF4-0391-414F-B2E0-3D6549E5BDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFED3BF4-0391-414F-B2E0-3D6549E5BDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

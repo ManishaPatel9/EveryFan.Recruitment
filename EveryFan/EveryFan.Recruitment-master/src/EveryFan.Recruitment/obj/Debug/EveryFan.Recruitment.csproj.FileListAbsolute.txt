@@ -1,0 +1,4 @@
+C:\Manisha\EveryFan\EveryFan.Recruitment-master\src\EveryFan.Recruitment\bin\Debug\EveryFan.Recruitment.dll
+C:\Manisha\EveryFan\EveryFan.Recruitment-master\src\EveryFan.Recruitment\bin\Debug\EveryFan.Recruitment.pdb
+C:\Manisha\EveryFan\EveryFan.Recruitment-master\src\EveryFan.Recruitment\obj\Debug\EveryFan.Recruitment.dll
+C:\Manisha\EveryFan\EveryFan.Recruitment-master\src\EveryFan.Recruitment\obj\Debug\EveryFan.Recruitment.pdb
