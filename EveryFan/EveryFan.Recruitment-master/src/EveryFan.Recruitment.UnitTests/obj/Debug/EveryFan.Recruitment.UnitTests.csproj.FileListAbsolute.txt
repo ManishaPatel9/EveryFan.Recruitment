@@ -1,0 +1,9 @@
+C:\Manisha\EveryFan\EveryFan.Recruitment-master\src\EveryFan.Recruitment.UnitTests\obj\Debug\EveryFan.Recruitment.UnitTests.csprojResolveAssemblyReference.cache
+C:\Manisha\EveryFan\EveryFan.Recruitment-master\src\EveryFan.Recruitment.UnitTests\bin\Debug\EveryFan.Recruitment.UnitTests.dll
+C:\Manisha\EveryFan\EveryFan.Recruitment-master\src\EveryFan.Recruitment.UnitTests\bin\Debug\EveryFan.Recruitment.UnitTests.pdb
+C:\Manisha\EveryFan\EveryFan.Recruitment-master\src\EveryFan.Recruitment.UnitTests\bin\Debug\EveryFan.Recruitment.dll
+C:\Manisha\EveryFan\EveryFan.Recruitment-master\src\EveryFan.Recruitment.UnitTests\bin\Debug\nunit.framework.dll
+C:\Manisha\EveryFan\EveryFan.Recruitment-master\src\EveryFan.Recruitment.UnitTests\bin\Debug\EveryFan.Recruitment.pdb
+C:\Manisha\EveryFan\EveryFan.Recruitment-master\src\EveryFan.Recruitment.UnitTests\bin\Debug\nunit.framework.xml
+C:\Manisha\EveryFan\EveryFan.Recruitment-master\src\EveryFan.Recruitment.UnitTests\obj\Debug\EveryFan.Recruitment.UnitTests.dll
+C:\Manisha\EveryFan\EveryFan.Recruitment-master\src\EveryFan.Recruitment.UnitTests\obj\Debug\EveryFan.Recruitment.UnitTests.pdb
